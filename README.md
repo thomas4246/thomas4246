@@ -16,6 +16,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 
+
 #### JS Framework/Library
 ![Next](https://img.shields.io/badge/-Next-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
@@ -29,7 +30,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
 
-#### Database/State
+#### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 
@@ -50,7 +51,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=thomas4246&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=thomas4246&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)
+
+
+
 
 
 
