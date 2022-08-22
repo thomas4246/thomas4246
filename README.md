@@ -1,5 +1,5 @@
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20👋,%20I'm%20Thomas&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20🤙🏻,%20I'm%20Thomas&fontAlignY=40&color=gradient)
 
 
 <p align="center">
